@@ -9,4 +9,4 @@ The idea, therefore, is to make the app by going to simulate the parking lots wi
 
 The aim is to use technology to help people in their daily lives and above all in those actions that would seem obvious but have a great impact on many aspects of people’s lives and our society: quality of life, environmental issues (in terms of consumption in continuing to look for a parking space), and time that we can use for other activities.
 
-For more information about the project and implementation see the following two files: [paper](ESPark_Paper) and [presentation](ESPark_Presentation)
+For more information about the project and implementation see the following two files: [paper](ESPark_Paper.pdf) and [presentation](ESPark_Presentation.pdf)
